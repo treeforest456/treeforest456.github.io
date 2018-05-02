@@ -11,7 +11,7 @@ city: Monterey Park
 state: CA
 zip_code: 91755
 country: United States of America
-phone: (716) 555-5555
+phone: (314) 555-5555
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -20,14 +20,14 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+github_url: https://treeforest456.github.io
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url: https://www.linkedin.com/in/shuyuwangwiredin/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url:
 
 # build settings
 markdown: kramdown
