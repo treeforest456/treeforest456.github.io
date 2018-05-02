@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'Hi, my name is Shuyu'
+description: I'm currently in LA doing some data science and machine learning stuff. Interested in deep learning and Ai.
 image: null
 author: null
 ---
