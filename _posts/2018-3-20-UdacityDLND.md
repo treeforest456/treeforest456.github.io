@@ -11,3 +11,6 @@ Skills from Udacity DLND:
 * Genereate TV Scripts using RNN with TensorFlow
 * Translate English to French using RNN with TensorFlow
 * Generate Faces using GAN with TensorFlow
+
+
+* this is a commit message test
