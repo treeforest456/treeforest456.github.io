@@ -9,7 +9,7 @@ image: assets/images/pic03.jpg
 ![test image]({{ site.url | absolute_path}}/assets/images/pic03.jpg)
 -->
 
-Skills from Udacity DAND:
+Projects from Udacity DAND:
 * Investigate a data set with Pandas
 * Data Wrangling with SQL
 * Exploratory Data Analysis with R

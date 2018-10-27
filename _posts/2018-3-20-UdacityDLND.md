@@ -5,7 +5,7 @@ description: Udacity Deep Learning Foundation Nanodegree
 image: assets/images/pic06.jpg
 ---
 
-Skills from Udacity DLND:
+Projects from Udacity DLND:
 * Neural Network
 * Image Classification using CNN with TensorFlow
 * Genereate TV Scripts using RNN with TensorFlow
