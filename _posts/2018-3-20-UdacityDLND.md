@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Udacity DLND
-description: Udacity Deep Learning Foundation Nanodegree
+title: Deep Learning Projects
+description: Deep Learning projects from DLND
 image: assets/images/pic06.jpg
 ---
 
-Projects from Udacity DLND:
+Deep Learning Projects:
+
 * Neural Network
 * Image Classification using CNN with TensorFlow
 * Genereate TV Scripts using RNN with TensorFlow

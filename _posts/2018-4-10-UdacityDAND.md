@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Udacity DAND
-description: Data Analyst Nanodegree
+title: Data Analysis Projects
+description: Data analysis projects from DAND
 image: assets/images/pic03.jpg
 ---
 
@@ -9,7 +9,8 @@ image: assets/images/pic03.jpg
 ![test image]({{ site.url | absolute_path}}/assets/images/pic03.jpg)
 -->
 
-Projects from Udacity DAND:
+Data Analysis Projects:
+
 * Investigate a data set with Pandas
 * [Data Wrangling with SQL](/udacity_dand_p2_openstreetmap/)
 * [Exploratory Data Analysis with R](/udacity_dand_p3_exploresummarizebigmart/)
